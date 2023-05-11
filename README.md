@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am Hakan 👋
+
+I'm Mehmet Hakan Alp from Turkey, and I have worked on image processing before. I am currently developing myself on android. I really enjoy learning languages.
+You can check https://twitter.com/mhakanalp or https://www.instagram.com/alpphakan/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakan060)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hakan060/hakan060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
