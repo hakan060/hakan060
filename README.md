@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2017/05/kotlin-android_kotlin.png)
+![MasterHead](https://blog.jetbrains.com/wp-content/uploads/2017/05/kotlin-android_kotlin.png)
 <h1 align="center">Hi 👋, I'm Hakan</h1>
 <h3 align="center">A Young Android developer from Turkey</h3>
 <img align="right" alt ="Coding" width="400" src="https://fgp.dev/static/media/AndroidDevelopmentImg1.44dafe2f.gif">
