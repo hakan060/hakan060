@@ -24,7 +24,7 @@
 <a href="https://twitter.com/mhakanalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhakanalp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehmethakanalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmethakanalp" height="30" width="40" /></a>
 <a href="https://instagram.com/alpphakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alpphakan" height="30" width="40" /></a>
-<a href="https://medium.com/alpphakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alpphakan" height="30" width="40" /></a>
+<a href="https://medium.com/@alpphakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alpphakan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
